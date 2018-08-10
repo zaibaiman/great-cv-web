@@ -6,10 +6,8 @@ import { Component, OnInit } from '@angular/core';
     styleUrls: ['./workbench.component.css']
 })
 export class WorkbenchComponent implements OnInit {
-
     constructor() { }
 
     ngOnInit() {
     }
-
 }
